@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jtsanti
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on anything
+- 👀 I’m interested in front-end development and currently working towards full stack
+- 🌱 I’m currently learning Python, RoR, C# (not in any particular order)
+- 💞️ I’m looking to collaborate on anything really - I love a good challenge
 - 📫 How to reach me ...
 
 <!---
