@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @jtsanti
+- 👋 Hi, I’m Justin
 - 👀 I’m interested in front-end development and currently working towards full stack
-- 🌱 I’m currently learning Python, RoR, C# (not in any particular order)
+- 🌱 I’m currently aiming to learn RoR, Python,, PHP, and C# (not in any particular order)
 - 💞️ I’m looking to collaborate on anything really - I love a good challenge
-- 📫 How to reach me ...
 
 <!---
 jtsanti/jtsanti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
